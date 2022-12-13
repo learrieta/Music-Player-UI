@@ -4,11 +4,11 @@ Music is the medicine of the soul for everybody. The music itself is a universal
 
 In this project, I created a music player which is  able to add, delete and update songs. The software is connected to the Firestore database where the songs and all its information is to be stored. Also, in order to the music, the program is using pytube and the urllib library to be able to look up the songs on YouTube, and eventually downloaded into your system.
 
-The purpose of this program is to be able to listen to music without any ads or commercial breaks between or in the middle of a song.
+The purpose of this program is to dive more in depth with the Tkinter library and become familiar with the Firestore database.
 
 
 
-[Software Demo Video](https://youtu.be/_aGx0dktsB8)
+[Software Demo Video](https://youtu.be/tKrI6juSjXk)
 
 # Cloud Database
 

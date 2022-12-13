@@ -72,11 +72,7 @@ def openLibrary():
             text.insert(END,song)
     """for result in query:
         for doc in result.stream():
-            text.insert(tk.END,'- ' +  doc.get('name') + '\n')"""
-    
-
-
-            
+            text.insert(tk.END,'- ' +  doc.get('name') + '\n')"""      
     root1.mainloop()
 
 def addSong():
@@ -266,8 +262,6 @@ def deleted():
     os.remove(path)
     
     root5.mainloop()
-
-
 
 
 
